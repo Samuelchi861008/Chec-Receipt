@@ -1,0 +1,38 @@
+body {
+  font-family: 'segoe ui';
+}
+
+.nav {
+  height: 360px;
+  width: 100%;
+  background-color: rgb(105,100,123);
+  position: fixed;
+  top: 0;
+}
+
+table { 
+	width: 100%; 
+	border-collapse: collapse;
+	margin: 360px auto;
+}
+
+th { 
+	background: rgb(146,172,210);
+	color: white; 
+	font-weight: bold; 
+}
+
+.btn1 {
+	background-color: rgb(150,90,63);
+	border-radius: 50px;
+	float:right;
+	margin:10px;
+	color: #FFF;
+}
+
+.btn2 {
+	background-color: rgb(185,170,163);
+	border-radius: 50px;
+	color: #FFF;
+	font-weight: bold;
+}
