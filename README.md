@@ -6,16 +6,22 @@
 
 後端 : Node.js
 
+# Use Step 
+
+* Step 1 
+
+$ npm install
+
 # Output example 
 
-*主頁 
+* 主頁 
 
 ![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/homePage.JPG) 
 
-*輸入後 
+* 輸入後 
 
 ![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/afterInput.JPG) 
 
-*點擊獎項 
+* 點擊獎項 
 
 ![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/clickPrize.JPG)
