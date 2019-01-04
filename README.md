@@ -1,4 +1,4 @@
-﻿# Check Receipt 
+# Check Receipt 
 
 透過程式爬蟲進行抓取最新發票號碼，可供使用者進行輸入並比對最新一期獎號，查看是否中獎。 
 
@@ -13,16 +13,25 @@
 $ npm install
 ``` 
 
+* Step 2 
+```bash
+$ node app.js
+``` 
+
+* Step 3
+
+go to browser and type `localhost:3000`
+
 # Output example 
 
-* 主頁 
+* Home Page 
 
 ![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/homePage.JPG) 
 
-* 輸入後 
+* When user input the receipt numbers 
 
 ![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/afterInput.JPG) 
 
-* 點擊獎項 
+* if user won the prize, then user can click the prize 
 
 ![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/clickPrize.JPG)
