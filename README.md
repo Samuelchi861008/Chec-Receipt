@@ -33,7 +33,33 @@
 * Use FontAwesome icon 
 
 ![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/FontAwesome.JPG) 
-![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/FontAwesomeicon.JPG)
+![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/FontAwesomeicon.JPG) 
+
+* Use popular color(莫蘭迪色系) 
+
+navbar : 
+
+```
+rgb(105,100,123)
+```  
+
+table head : 
+
+```
+rgb(146,172,210)
+```  
+
+official button :
+
+```
+rgb(150,90,63)
+```  
+
+check button :
+
+```
+rgb(185,170,163)
+``` 
 
 # Use Step 
 
@@ -78,4 +104,5 @@ Go to browser and type `localhost:3000`
 # Reference 
 
 * Cheerio 
+
 https://andy6804tw.github.io/2018/02/11/nodejs-crawler/
