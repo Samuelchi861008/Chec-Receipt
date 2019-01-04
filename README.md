@@ -20,7 +20,9 @@
 
 ![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/UseEJS.JPG) 
 
-* Interactions between Server and Client
+* Interactions between Server and Client 
+
+![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/Interactions.JPG)
 
 # Use Step 
 
