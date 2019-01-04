@@ -18,11 +18,11 @@ Server : Node.js
 
 * Use Routing and view template(ejs) 
 
+![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/Interactions.JPG) 
 ![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/UseEJS.JPG) 
 
 * Interactions between Server and Client 
 
-![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/Interactions.JPG) 
 
 # Additional Features 
 
