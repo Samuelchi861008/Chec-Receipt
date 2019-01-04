@@ -44,6 +44,7 @@ app.use(logger("dev"));
 app.use(bodyParser.urlencoded({ extended: false }));
 
 app.get("/", function(request, response) {
+  console.log("\nLog in user IP :",request.ip.slice(7,22));
   response.render("index");
 });
 
@@ -81,7 +82,8 @@ app.post("/", function(request, response) {
     Num_4_3: num_4.slice(8,11),
     published: new Date()
   });
-
+  console.log("\nPOST Massage NO.",rowIndex,"user IP :",request.ip.slice(7,22));
+  console.log("Input :",request.body.receiptNumber);
   response.redirect("/");
 });
 
