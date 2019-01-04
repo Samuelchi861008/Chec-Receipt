@@ -22,7 +22,17 @@
 
 * Interactions between Server and Client 
 
-![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/Interactions.JPG)
+![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/Interactions.JPG) 
+
+# Additional Features 
+
+* Use cheerio(爬蟲) get the numbers 
+
+![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/cheerio.JPG) 
+
+* Use FontAwesome icon 
+
+![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/FontAwesome.JPG) 
 
 # Use Step 
 
@@ -48,7 +58,7 @@ $ node app.js
 
 * Step 5
 
-go to browser and type `localhost:3000`
+Go to browser and type `localhost:3000`
 
 # Example 
 
@@ -62,4 +72,9 @@ go to browser and type `localhost:3000`
 
 * if user won the prize, then user can click the status to see the prize 
 
-![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/clickPrize.JPG)
+![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/clickPrize.JPG) 
+
+# Reference 
+
+* Cheerio 
+https://andy6804tw.github.io/2018/02/11/nodejs-crawler/
