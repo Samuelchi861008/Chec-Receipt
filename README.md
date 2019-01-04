@@ -33,6 +33,7 @@
 * Use FontAwesome icon 
 
 ![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/FontAwesome.JPG) 
+![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/FontAwesomeicon.JPG)
 
 # Use Step 
 
