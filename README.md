@@ -8,11 +8,14 @@
 
 # Output example 
 
-*主頁
+*主頁 
+
 ![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/1.JPG) 
 
-*輸入後
+*輸入後 
+
 ![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/2.JPG) 
 
-*點擊獎項
+*點擊獎項 
+
 ![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/3.JPG)
