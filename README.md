@@ -6,7 +6,13 @@
 
 後端 : Node.js
 
-# Output example
-![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/1.JPG)
-![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/2.JPG)
+# Output example 
+
+*主頁
+![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/1.JPG) 
+
+*輸入後
+![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/2.JPG) 
+
+*點擊獎項
 ![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/3.JPG)
