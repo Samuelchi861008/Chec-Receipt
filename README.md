@@ -43,11 +43,15 @@ navbar :
 rgb(105,100,123)
 ```  
 
+![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/navbarcolor.JPG)
+
 table head : 
 
 ```
 rgb(146,172,210)
 ```  
+
+![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/theadcolor.JPG)
 
 official button :
 
@@ -55,11 +59,15 @@ official button :
 rgb(150,90,63)
 ```  
 
+![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/bt1color.JPG)
+
 check button :
 
 ```
 rgb(185,170,163)
 ``` 
+
+![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/bt2color.JPG)
 
 # Use Step 
 
