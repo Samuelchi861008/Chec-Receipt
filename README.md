@@ -42,6 +42,6 @@ go to browser and type `localhost:3000`
 
 ![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/afterInput.JPG) 
 
-* if user won the prize, then user can click the prize 
+* if user won the prize, then user can click the status to see the prize 
 
 ![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/clickPrize.JPG)
