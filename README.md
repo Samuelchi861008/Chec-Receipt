@@ -10,15 +10,25 @@
 
 * Step 1 
 ```bash
-$ npm install
+$ git clone https://github.com/Samuelchi861008/Check-Receipt.git
 ``` 
 
 * Step 2 
 ```bash
+$ cd Check-Receipt
+``` 
+
+* Step 3 
+```bash
+$ npm install
+``` 
+
+* Step 4 
+```bash
 $ node app.js
 ``` 
 
-* Step 3
+* Step 5
 
 go to browser and type `localhost:3000`
 
