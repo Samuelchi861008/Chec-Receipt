@@ -23,6 +23,7 @@ Server : Node.js
 
 * Interactions between Server and Client 
 
+![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/interact.gif) 
 
 # Additional Features 
 
