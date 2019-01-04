@@ -9,12 +9,15 @@
 # Features 
 
 * Use node.js 
+
 ![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/UseNodeJS.JPG) 
 
 * Use Pure.css framework 
+
 ![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/UsePureCSS.JPG) 
 
 * Use Routing and view template(ejs) 
+
 ![image](https://github.com/Samuelchi861008/Check-Receipt/blob/master/UseEJS.JPG) 
 
 * Interactions between Server and Client
