@@ -9,8 +9,9 @@
 # Use Step 
 
 * Step 1 
-
+```bash
 $ npm install
+``` 
 
 # Output example 
 
