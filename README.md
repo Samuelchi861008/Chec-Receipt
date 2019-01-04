@@ -2,9 +2,9 @@
 
 透過程式爬蟲進行抓取最新發票號碼，可供使用者進行輸入並比對最新一期獎號，查看是否中獎。 
 
-前端 : HTML、CSS、JavaScript、PureCSS 
+Client : HTML、CSS、JavaScript、Pure.CSS 
 
-後端 : Node.js
+Server : Node.js
 
 # Features 
 
@@ -113,4 +113,8 @@ Go to browser and type `localhost:3000`
 
 * Cheerio 
 
-https://andy6804tw.github.io/2018/02/11/nodejs-crawler/
+https://andy6804tw.github.io/2018/02/11/nodejs-crawler/ 
+
+* Official 
+
+http://invoice.etax.nat.gov.tw/
